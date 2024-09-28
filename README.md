@@ -31,6 +31,7 @@ This project was created as part of a broader initiative to explore the utilizat
 ## API Integration
 
 The application is powered by [FinanceAPI](https://www.financeapi.net), which provides a comprehensive set of endpoints for retrieving financial data. The app makes use of the following key endpoints:
+![Screenshot 2024-09-28 at 9 03 48 PM](https://github.com/user-attachments/assets/8beff8fb-3df4-46ea-bd1c-2594932f5ee6)
 
 - **Stock Quote:** Retrieves the latest stock price and key metrics.
 - **Stock History:** Provides historical data for a stock over a specified date range.
@@ -47,4 +48,6 @@ To run this project locally, follow the steps below:
 - Node.js installed
 - A FinanceAPI account with a valid API key
 - Basic knowledge of React
+  ![Screenshot 2024-09-28 at 9 04 42 PM](https://github.com/user-attachments/assets/33999b44-96ce-43b4-b9ae-5c6e901fd839)
+
 
